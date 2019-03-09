@@ -9,7 +9,7 @@ import javax.xml.bind.Unmarshaller;
 public class ProcessXml {
 
   public static void main(String[] args) {
-    String filePath = "D:\\spring-boot\\test\\resource\\text.xml";
+    String filePath = "D:\\spring-boot\\javaleaning\\resource\\text.xml";
     webShop(filePath, 14);
   }
 
